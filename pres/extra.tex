@@ -1,0 +1,36 @@
+\newcommand{\backupbegin}{
+   \newcounter{framenumberappendix}
+   \setcounter{framenumberappendix}{\value{framenumber}}
+}
+\newcommand{\backupend}{
+   \addtocounter{framenumberappendix}{-\value{framenumber}}
+   \addtocounter{framenumber}{\value{framenumberappendix}} 
+}
+
+\usepackage{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[frenchb]{babel}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{natbib}
+% Permet d'enlever les extensions
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+% Dossier des images
+\graphicspath{ {img/} }
+% Taille des captions (texte sous images)
+\usepackage[font={small,it}]{caption}
+%\usepackage[linesnumbered]{algorithm2e}
+\usepackage{float}
+
+\newcommand{\whiteCircle}{\protect\includegraphics[width=0.1\textwidth]{rond_blanc}}
+\newcommand{\nun}{\protect\includegraphics[width=0.06\textwidth]{n1}}
+\newcommand{\nd}{\protect\includegraphics[width=0.06\textwidth]{n2.pdf}}
+\newcommand{\nq}{\protect\includegraphics[width=0.06\textwidth]{n4.pdf}}
+\newcommand{\nc}{\protect\includegraphics[width=0.06\textwidth]{n5.pdf}}
+\newcommand{\ns}{\protect\includegraphics[width=0.06\textwidth]{n6.pdf}}
+\newcommand{\nse}{\protect\includegraphics[width=0.06\textwidth]{n7.pdf}}
+\newcommand{\nh}{\protect\includegraphics[width=0.06\textwidth]{n8.pdf}}
+\captionsetup[figure]{labelsep=period}

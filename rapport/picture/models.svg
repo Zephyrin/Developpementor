@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="91.863525mm"
+   height="36.606998mm"
+   viewBox="0 0 325.50067 129.70984"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/florian/Documents/Fac/Master 2/Stage/Présentation_1/radicalInteractionnism.png"
+   inkscape:export-xdpi="127.86"
+   inkscape:export-ydpi="127.86"
+   sodipodi:docname="models.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4385"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4381"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4365"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4813"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4809"
+       is_visible="true" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4759"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4761"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4420"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3611"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3605"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4349"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4325"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4381-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4385-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4365-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4381-1-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4385-0-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4365-1-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4381-1-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4385-0-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4365-1-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4365-1-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4381-1-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4385-0-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4365-16"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4381-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4385-8"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="328.28268"
+     inkscape:cy="-563.93918"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.075506,366.77492)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="257.33636"
+       y="287.17166"
+       id="text5407"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5409"
+         x="257.33636"
+         y="287.17166" /></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#3465a4;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3425-1-2"
+       sodipodi:sides="3"
+       sodipodi:cx="293.31293"
+       sodipodi:cy="178.979"
+       sodipodi:r1="12.621445"
+       sodipodi:r2="36.778996"
+       sodipodi:arg1="-0.058679542"
+       sodipodi:arg2="0.988518"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 305.91265,178.23881 -18.25856,12.02197 -1.28205,-21.82336 z"
+       inkscape:transform-center-x="5.068294"
+       inkscape:transform-center-y="2.7981171"
+       transform="matrix(-0.69373569,0.05040007,0.03691004,0.94728515,859.70459,-198.21748)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/model_standard.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       style="fill:#3465a4;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3400-5"
+       sodipodi:type="arc"
+       sodipodi:cx="-285.82687"
+       sodipodi:cy="98.453209"
+       sodipodi:rx="12.248099"
+       sodipodi:ry="10.606602"
+       sodipodi:start="1.5167254"
+       sodipodi:end="4.7799406"
+       d="m -285.16493,109.04431 a 12.248099,10.606602 0 0 1 -11.18528,-5.16401 12.248099,10.606602 0 0 1 0.0854,-10.976537 12.248099,10.606602 0 0 1 11.26465,-5.032965"
+       sodipodi:open="true"
+       transform="scale(-1,-1)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       sodipodi:type="star"
+       style="fill:#3465a4;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3425-6"
+       sodipodi:sides="3"
+       sodipodi:cx="293.31293"
+       sodipodi:cy="178.979"
+       sodipodi:r1="12.621445"
+       sodipodi:r2="36.778996"
+       sodipodi:arg1="-0.058679542"
+       sodipodi:arg2="0.988518"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 305.91265,178.23881 -18.25856,12.02197 -1.28205,-21.82336 z"
+       inkscape:transform-center-x="-7.295479"
+       inkscape:transform-center-y="2.9496578"
+       transform="matrix(0.99858762,0.05312961,-0.05312961,0.99858762,-169.84127,-292.80248)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <g
+       id="g4271">
+      <rect
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         ry="1.80056"
+         rx="2.3822501"
+         y="-120.17145"
+         x="128.67903"
+         height="43.436558"
+         width="155.56349"
+         id="rect3342-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         transform="scale(1.031971,0.96901948)"
+         sodipodi:linespacing="114%"
+         id="text5375-6"
+         y="-96.390854"
+         x="170.62115"
+         style="font-style:normal;font-weight:normal;font-size:22.421381px;line-height:113.99999857%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:20px;line-height:113.99999857%"
+           y="-96.390854"
+           x="170.62115"
+           id="tspan5377-8"
+           sodipodi:role="line">Agent</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="301.7912"
+       y="-101.84158"
+       id="text5379-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127"><tspan
+         sodipodi:role="line"
+         id="tspan3514"
+         x="301.7912"
+         y="-101.84158">Experiment</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3516"
+         x="301.7912"
+         y="-83.091583">e<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';baseline-shift:sub"
+   id="tspan3518">t</tspan> ∈ E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="61.146862"
+       y="-77.579002"
+       id="text5399-7"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96105166,1.0405268)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127"><tspan
+         sodipodi:role="line"
+         id="tspan5411-4"
+         x="61.146862"
+         y="-77.579002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">Result</tspan><tspan
+         sodipodi:role="line"
+         x="61.146862"
+         y="-58.829002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         id="tspan3520">r<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';baseline-shift:sub"
+   id="tspan3522">t</tspan> ∈ R</tspan></text>
+    <g
+       id="g4266">
+      <rect
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         ry="1.80056"
+         rx="2.3822501"
+         y="-35.571152"
+         x="129.1841"
+         height="43.436558"
+         width="155.56349"
+         id="rect3342-5-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         transform="scale(0.93751772,1.0666465)"
+         sodipodi:linespacing="125%"
+         id="text5417-29"
+         y="-6.0571198"
+         x="143.61583"
+         style="font-style:normal;font-weight:normal;font-size:22.79110146px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:20px"
+           y="-6.0571198"
+           x="143.61583"
+           id="tspan5419-3"
+           sodipodi:role="line">Environnement</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3342-5"
+       width="155.56349"
+       height="43.436558"
+       x="369.08636"
+       y="286.91913"
+       rx="2.3822501"
+       ry="1.80056"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3342"
+       width="155.56349"
+       height="43.436558"
+       x="368.5813"
+       y="202.31883"
+       rx="2.3822501"
+       ry="1.80056"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.02526307;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3342-1"
+       width="155.21123"
+       height="63.79858"
+       x="369.76758"
+       y="392.40366"
+       rx="2.3768556"
+       ry="2.6446197"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.73890084px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 525.57049,224.86576 77.96439,-0.0297 0,71.43712 -78.7236,-0.0594"
+       id="path3392"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.74509323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 368.92486,229.57719 -80.74115,-0.13988 1.01242,65.46614 79.98183,-0.13989"
+       id="path3394"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.12344456px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 526.46076,306.19292 77.94748,0 -1.00903,126.3598 -77.94747,10e-6"
+       id="path3396"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.16504276px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 368.80432,438.31142 -85.63892,0 0,-119.22623 85.92063,0.30728"
+       id="path3398"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       style="fill:#3465a4;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3400"
+       sodipodi:type="arc"
+       sodipodi:cx="-525.72913"
+       sodipodi:cy="-225.29982"
+       sodipodi:rx="12.248099"
+       sodipodi:ry="10.606602"
+       sodipodi:start="1.5167254"
+       sodipodi:end="4.7799406"
+       d="m -525.06718,-214.70872 a 12.248099,10.606602 0 0 1 -11.18528,-5.16401 12.248099,10.606602 0 0 1 0.0854,-10.97654 12.248099,10.606602 0 0 1 11.26465,-5.03296"
+       sodipodi:open="true"
+       transform="scale(-1,-1)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       style="fill:#3465a4;fill-opacity:1;stroke:#000000;stroke-width:1.1343565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3400-7"
+       sodipodi:type="arc"
+       sodipodi:cx="-525.5694"
+       sodipodi:cy="-307.07709"
+       sodipodi:rx="7.281446"
+       sodipodi:ry="8.2022791"
+       sodipodi:start="1.5167254"
+       sodipodi:end="4.7799406"
+       d="m -525.17587,-298.8868 a 7.281446,8.2022791 0 0 1 -6.64961,-3.99342 7.281446,8.2022791 0 0 1 0.0508,-8.48836 7.281446,8.2022791 0 0 1 6.69679,-3.89208"
+       sodipodi:open="true"
+       transform="scale(-1,-1)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       sodipodi:type="star"
+       style="fill:#3465a4;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3425"
+       sodipodi:sides="3"
+       sodipodi:cx="293.31293"
+       sodipodi:cy="178.979"
+       sodipodi:r1="12.621445"
+       sodipodi:r2="36.778996"
+       sodipodi:arg1="-0.058679542"
+       sodipodi:arg2="0.988518"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 305.91265,178.23881 -18.25856,12.02197 -1.28205,-21.82336 z"
+       inkscape:transform-center-x="-7.295479"
+       inkscape:transform-center-y="2.9496578"
+       transform="matrix(0.99858762,0.05312961,-0.05312961,0.99858762,71.121372,35.695735)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       sodipodi:type="star"
+       style="fill:#3465a4;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3425-1"
+       sodipodi:sides="3"
+       sodipodi:cx="293.31293"
+       sodipodi:cy="178.979"
+       sodipodi:r1="12.621445"
+       sodipodi:r2="36.778996"
+       sodipodi:arg1="-0.058679542"
+       sodipodi:arg2="0.988518"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 305.91265,178.23881 -18.25856,12.02197 -1.28205,-21.82336 z"
+       inkscape:transform-center-x="-5.0682909"
+       inkscape:transform-center-y="2.7981171"
+       transform="matrix(0.69373569,0.05040007,-0.03691004,0.94728515,162.99043,135.01604)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:113.99999857%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="399.66739"
+       y="237.72153"
+       id="text5375"
+       sodipodi:linespacing="114%"
+       transform="scale(1.031971,0.96901948)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127"><tspan
+         sodipodi:role="line"
+         id="tspan5377"
+         x="399.66739"
+         y="237.72153"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:113.99999857%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif'">Décision</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="560.32294"
+       y="345.93848"
+       id="text5385"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0937412,0.91429308)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127"><tspan
+         sodipodi:role="line"
+         x="560.32294"
+         y="345.93848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';baseline-shift:baseline"
+         id="tspan3587" /><tspan
+         sodipodi:role="line"
+         x="560.32294"
+         y="364.68848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';baseline-shift:baseline"
+         id="tspan3593">Iip<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';baseline-shift:sub"
+   id="tspan3597">{I1,..., In}</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.51649"
+       y="299.18118"
+       id="text5399"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96105166,1.0405268)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127"><tspan
+         sodipodi:role="line"
+         x="190.51649"
+         y="299.18118"
+         id="tspan3577" /><tspan
+         sodipodi:role="line"
+         x="190.51649"
+         y="317.93118"
+         id="tspan3582">Iep<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';baseline-shift:sub"
+   id="tspan3599">{i1,...,im}</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="419.09726"
+       y="395.31451"
+       id="text5417"
+       sodipodi:linespacing="125%"
+       transform="scale(0.93751772,1.0666465)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127"><tspan
+         sodipodi:role="line"
+         id="tspan5419"
+         x="419.09726"
+         y="395.31451"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif'">Interface </tspan><tspan
+         sodipodi:role="line"
+         x="419.09726"
+         y="414.06451"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif'"
+         id="tspan3601">Sensorimotrice</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="396.67767"
+       y="328.42648"
+       id="text5421"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0345331,0.96661963)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127"><tspan
+         sodipodi:role="line"
+         id="tspan5423"
+         x="396.67767"
+         y="328.42648"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif'">Enacter</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.40826774;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4166"
+       width="666.08875"
+       height="335.42377"
+       x="59.532951"
+       y="151.7883"
+       rx="4.3794127"
+       ry="5.6294885"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="307.48453"
+       y="138.36218"
+       id="text3553"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3555"
+         x="307.48453"
+         y="138.36218">Programme de l'agent</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="562.57141"
+       y="220.00323"
+       id="text3557"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="562.57141"
+         y="220.00323"
+         id="tspan4801">Ii</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="309"
+       y="222.93362"
+       id="text3569"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="309"
+         y="222.93362"
+         id="tspan3575">Ie</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 509.14286,455.93361 0,95.35714"
+       id="path3603"
+       inkscape:path-effect="#path-effect3605"
+       inkscape:original-d="m 509.14286,455.93361 0,95.35714"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4759)"
+       d="m 416.28571,551.29075 0,-93.92857"
+       id="path3609"
+       inkscape:path-effect="#path-effect3611"
+       inkscape:original-d="m 416.28571,551.29075 0,-93.92857"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="517.71429"
+       y="520.8103"
+       id="text4787"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4789"
+         x="517.71429"
+         y="520.8103">Effet sur les</tspan><tspan
+         sodipodi:role="line"
+         x="517.71429"
+         y="539.5603"
+         id="tspan4791">moteurs, actionneurs...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="304.14288"
+       y="510.79077"
+       id="text4793"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4795"
+         x="304.14288"
+         y="510.79077">Effet des</tspan><tspan
+         sodipodi:role="line"
+         x="304.14288"
+         y="529.54077"
+         id="tspan4797">sensors sur</tspan><tspan
+         sodipodi:role="line"
+         x="304.14288"
+         y="548.29077"
+         id="tspan4799">le programme</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:14.39999962, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 61.428571,268.79075 663.571429,0"
+       id="path4807"
+       inkscape:path-effect="#path-effect4809"
+       inkscape:original-d="m 61.428571,268.79075 663.571429,0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:14.39999962, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 726.42857,381.36218 -668.571427,0"
+       id="path4811"
+       inkscape:path-effect="#path-effect4813"
+       inkscape:original-d="m 726.42857,381.36218 -668.571427,0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63"
+       y="261.93359"
+       id="text4815"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4817"
+         x="63"
+         y="261.93359">Programme pro-actif</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63"
+       y="285.93362"
+       id="text4819"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4821"
+         x="63"
+         y="285.93362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif'">Programme réactif</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63"
+       y="398.07648"
+       id="text4823"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4825"
+         x="63"
+         y="398.07648"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif'">Environnement</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63.080566"
+       y="505.50507"
+       id="text4827"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4829"
+         x="63.080566"
+         y="505.50507"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif'">Monde physique</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.18408477px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 525.69417,314.80186 85.68176,0 -1.10917,127.69822 -85.68173,10e-6"
+       id="path3396-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       style="fill:#3465a4;fill-opacity:1;stroke:#000000;stroke-width:1.1343565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3400-7-0"
+       sodipodi:type="arc"
+       sodipodi:cx="-525.5694"
+       sodipodi:cy="-313.76672"
+       sodipodi:rx="7.281446"
+       sodipodi:ry="8.2022791"
+       sodipodi:start="1.5167254"
+       sodipodi:end="4.7799406"
+       d="m -525.17587,-305.57643 a 7.281446,8.2022791 0 0 1 -6.64961,-3.99342 7.281446,8.2022791 0 0 1 0.0508,-8.48836 7.281446,8.2022791 0 0 1 6.69679,-3.89209"
+       sodipodi:open="true"
+       transform="scale(-1,-1)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10930562px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 369.02258,427.78117 -76.69415,0 0,-120.69783 76.94644,0.31106"
+       id="path3398-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       sodipodi:type="star"
+       style="fill:#3465a4;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3425-1-9"
+       sodipodi:sides="3"
+       sodipodi:cx="293.31293"
+       sodipodi:cy="178.979"
+       sodipodi:r1="12.621445"
+       sodipodi:r2="36.778996"
+       sodipodi:arg1="-0.058679542"
+       sodipodi:arg2="0.988518"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 305.91265,178.23881 -18.25856,12.02197 -1.28205,-21.82336 z"
+       inkscape:transform-center-x="-5.0682909"
+       inkscape:transform-center-y="2.7981171"
+       transform="matrix(0.69373569,0.05040007,-0.03691004,0.94728515,162.99043,123.46425)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <path
+       sodipodi:type="star"
+       style="fill:#3465a4;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3425-1-2-68"
+       sodipodi:sides="3"
+       sodipodi:cx="293.31293"
+       sodipodi:cy="178.979"
+       sodipodi:r1="12.621445"
+       sodipodi:r2="36.778996"
+       sodipodi:arg1="-0.058679542"
+       sodipodi:arg2="0.988518"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 305.91265,178.23881 -18.25856,12.02197 -1.28205,-21.82336 z"
+       inkscape:transform-center-x="-5.0682941"
+       inkscape:transform-center-y="2.7981171"
+       transform="matrix(0.69373569,0.05040007,-0.03691004,0.94728515,290.09937,-282.31839)"
+       inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/model_standard.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="431.8588"
+       y="-50.613861"
+       id="text3462"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3464"
+         x="431.8588"
+         y="-50.613861">Observation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="666.3338"
+       y="-50.617355"
+       id="text3466"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3468"
+         x="666.3338"
+         y="-50.617355">Action</tspan></text>
+    <g
+       transform="translate(369.0628,0)"
+       id="g4271-1">
+      <rect
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         ry="1.80056"
+         rx="2.3822501"
+         y="-120.17145"
+         x="128.67903"
+         height="43.436558"
+         width="155.56349"
+         id="rect3342-4-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         transform="scale(1.031971,0.96901948)"
+         sodipodi:linespacing="114%"
+         id="text5375-6-4"
+         y="-96.390854"
+         x="170.62115"
+         style="font-style:normal;font-weight:normal;font-size:22.421381px;line-height:113.99999857%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:20px;line-height:113.99999857%"
+           y="-96.390854"
+           x="170.62115"
+           id="tspan5377-8-6"
+           sodipodi:role="line">Agent</tspan></text>
+    </g>
+    <g
+       transform="translate(368.55774,0)"
+       id="g4266-2">
+      <rect
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         ry="1.80056"
+         rx="2.3822501"
+         y="-35.571152"
+         x="129.1841"
+         height="43.436558"
+         width="155.56349"
+         id="rect3342-5-3-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         transform="scale(0.93751772,1.0666465)"
+         sodipodi:linespacing="125%"
+         id="text5417-29-9"
+         y="-6.0571198"
+         x="143.61583"
+         style="font-style:normal;font-weight:normal;font-size:22.79110146px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:20px"
+           y="-6.0571198"
+           x="143.61583"
+           id="tspan5419-3-7"
+           sodipodi:role="line">Environnement</tspan></text>
+    </g>
+    <g
+       id="g4401">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 128.2102,-13.852873 -69.249903,0"
+         inkscape:path-effect="#path-effect4365"
+         id="path4363"
+         d="m 128.2102,-13.852873 -69.249903,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 107.39317,-98.453169 -48.432873,0"
+         inkscape:path-effect="#path-effect4381"
+         id="path4379"
+         d="m 107.39317,-98.453169 -48.432873,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 58.509679,-98.974035 0,85.610428"
+         inkscape:path-effect="#path-effect4385"
+         id="path4383"
+         d="m 58.509679,-98.974035 0,85.610428"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00745726px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4444">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 285.58409,-13.889808 69.24991,0"
+         inkscape:path-effect="#path-effect4365-1"
+         id="path4363-5"
+         d="m 285.58409,-13.889808 69.24991,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 298.57244,-98.4901 56.26156,0"
+         inkscape:path-effect="#path-effect4381-1"
+         id="path4379-3"
+         d="m 298.57244,-98.4901 56.26156,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.07779396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 355.28461,-99.01097 0,85.610428"
+         inkscape:path-effect="#path-effect4385-0"
+         id="path4383-6"
+         d="m 355.28461,-99.01097 0,85.610428"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00745726px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4465"
+       transform="matrix(1,0,0,-1,-6.5162609,-142.86463)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 660.65809,-44.335637 69.24991,0"
+         inkscape:path-effect="#path-effect4365-1-4"
+         id="path4363-5-6"
+         d="m 660.65809,-44.335637 69.24991,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 673.64644,-128.93593 56.26156,0"
+         inkscape:path-effect="#path-effect4381-1-8"
+         id="path4379-3-5"
+         d="m 673.64644,-128.93593 56.26156,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.07779396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 730.35861,-129.4568 0,85.610429"
+         inkscape:path-effect="#path-effect4385-0-8"
+         id="path4383-6-9"
+         d="m 730.35861,-129.4568 0,85.610429"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00745726px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4494">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 496.90534,-13.88981 -69.24992,0"
+         inkscape:path-effect="#path-effect4365-1-9"
+         id="path4363-5-5"
+         d="m 496.90534,-13.88981 -69.24992,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 482.46489,-98.490099 -54.80947,0"
+         inkscape:path-effect="#path-effect4381-1-6"
+         id="path4379-3-0"
+         d="m 482.46489,-98.490099 -54.80947,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.06379426px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 427.20481,-99.010969 0,85.610425"
+         inkscape:path-effect="#path-effect4385-0-2"
+         id="path4383-6-8"
+         d="m 427.20481,-99.010969 0,85.610425"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00745726px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4333">
+      <path
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         transform="scale(-1,-1)"
+         sodipodi:open="true"
+         d="m -292.57823,354.81128 a 12.248099,10.606602 0 0 1 -11.18528,-5.164 12.248099,10.606602 0 0 1 0.0854,-10.97654 12.248099,10.606602 0 0 1 11.26465,-5.03297"
+         sodipodi:end="4.7799406"
+         sodipodi:start="1.5167254"
+         sodipodi:ry="10.606602"
+         sodipodi:rx="12.248099"
+         sodipodi:cy="344.22018"
+         sodipodi:cx="-293.24017"
+         sodipodi:type="arc"
+         id="path3400-5-9"
+         style="fill:#3465a4;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         transform="matrix(0.99858762,0.05312961,-0.05312961,0.99858762,-162.42796,-538.56945)"
+         inkscape:transform-center-y="2.9496578"
+         inkscape:transform-center-x="-7.295479"
+         d="m 305.91265,178.23881 -18.25856,12.02197 -1.28205,-21.82336 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.988518"
+         sodipodi:arg1="-0.058679542"
+         sodipodi:r2="36.778996"
+         sodipodi:r1="12.621445"
+         sodipodi:cy="178.979"
+         sodipodi:cx="293.31293"
+         sodipodi:sides="3"
+         id="path3425-6-0"
+         style="fill:#3465a4;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="star" />
+      <rect
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         ry="1.80056"
+         rx="2.3822501"
+         y="-365.93842"
+         x="136.09233"
+         height="43.436558"
+         width="155.56349"
+         id="rect3342-4-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         transform="scale(1.031971,0.96901948)"
+         sodipodi:linespacing="114%"
+         id="text5375-6-1"
+         y="-350.01523"
+         x="177.80479"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.421381px;line-height:113.99999857%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:113.99999857%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif'"
+           y="-350.01523"
+           x="177.80479"
+           id="tspan5377-8-8"
+           sodipodi:role="line">Agent</tspan></text>
+      <text
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         sodipodi:linespacing="125%"
+         id="text5379-9-1"
+         y="-351.60858"
+         x="311.65283"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';baseline-shift:baseline"
+           y="-351.60858"
+           x="311.65283"
+           id="tspan3516-6"
+           sodipodi:role="line">I<tspan
+   id="tspan4478"
+   style="font-size:15px;baseline-shift:sub">i</tspan>(e<tspan
+   id="tspan4476"
+   style="font-size:15px;baseline-shift:sub">t</tspan>, r<tspan
+   id="tspan4474"
+   style="font-size:15px;baseline-shift:sub">t</tspan>)</tspan></text>
+      <text
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         transform="scale(0.96105166,1.0405268)"
+         sodipodi:linespacing="125%"
+         id="text5399-7-6"
+         y="-337.82852"
+         x="46.074619"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan3520-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif'"
+           y="-337.82852"
+           x="46.074619"
+           sodipodi:role="line">I<tspan
+   id="tspan4480"
+   style="font-size:15px;baseline-shift:sub">e</tspan>(e<tspan
+   id="tspan4482"
+   style="font-size:15px;baseline-shift:sub">t</tspan>, r'<tspan
+   id="tspan4484"
+   style="font-size:15px;baseline-shift:sub">t</tspan>)</tspan></text>
+      <rect
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         ry="1.80056"
+         rx="2.3822501"
+         y="-281.33813"
+         x="136.5974"
+         height="43.436558"
+         width="155.56349"
+         id="rect3342-5-3-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="127"
+         inkscape:export-xdpi="127"
+         inkscape:export-filename="/home/florian/Documents/Fac/Master_2/Stage/devlearnremiflo/Florian/rapport/picture/radical_interactionnism.png"
+         transform="scale(0.93751772,1.0666465)"
+         sodipodi:linespacing="125%"
+         id="text5417-29-3"
+         y="-236.468"
+         x="151.52321"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.79110146px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif'"
+           y="-236.468"
+           x="151.52321"
+           id="tspan5419-3-0"
+           sodipodi:role="line">Environnement</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 135.62351,-259.61984 -69.249908,0"
+         inkscape:path-effect="#path-effect4365-16"
+         id="path4363-2"
+         d="m 135.62351,-259.61984 -69.249908,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 114.80648,-344.22014 -48.432878,0"
+         inkscape:path-effect="#path-effect4381-6"
+         id="path4379-7"
+         d="m 114.80648,-344.22014 -48.432878,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 65.922984,-344.741 0,85.61042"
+         inkscape:path-effect="#path-effect4385-8"
+         id="path4383-4"
+         d="m 65.922984,-344.741 0,85.61042"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00745726px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 292.9974,-259.65678 69.24991,0"
+         inkscape:path-effect="#path-effect4365-1-5"
+         id="path4363-5-2"
+         d="m 292.9974,-259.65678 69.24991,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 305.98575,-344.25707 56.26156,0"
+         inkscape:path-effect="#path-effect4381-1-7"
+         id="path4379-3-9"
+         d="m 305.98575,-344.25707 56.26156,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.07779396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 362.69792,-344.77794 0,85.61043"
+         inkscape:path-effect="#path-effect4385-0-7"
+         id="path4383-6-5"
+         d="m 362.69792,-344.77794 0,85.61043"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00745726px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
