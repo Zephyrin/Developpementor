@@ -1,0 +1,114 @@
+## Projet RL_TUTORIALS ##
+
+### Experience AABB ###
+
+#### Appliquer un algo de Q-Learning classique ####
+
+##### Objectifs #####
+Observer le comportement d' un alogirthme Q-learning simple sur le problème AABB, histoire de voir si on arrive à le résoudre avec. 
+
+##### Etat de l'art #####
+Cet expérience est issue des travaux de O.Georgeon, inspiré de METTRE LA REF.
+
+##### Implem #####
+* Soient *A* l'ensemble des actions, *O* l'ensemble des observations, *R* l'ensemble des récompenses perçues en fonction des observations :
+	* *A* = { A , B } ou { E1 , E2 }
+	* *O* = { O1 , O2 } ou { S1 , S2 }
+	* *r(O1)* = *r(S1)* = -1 , *r(O2)* = *r(S2)* = 1
+* Plusieurs implémentations peuvent être possibles : 
+	* Avec exploration :  0 < epsilon < 1 , la probabilité de l'agent d'explorer, *i.e* de choisir une action au hasard ( pour notre implémentation ). 
+	* Sans exploration 
+	* Avec une exploration qui diminue avec le temps
+* Toutes les q-valeurs sont initialisées à zéro.
+
+##### Evauation des résultats #####
+L'expérience est découpée en *épisodes* composés d'un certain nombre de pas, en général 100. 
+On va observer :
+
+* Le comportement de l'agent, via une trace qui représente les actions et les observations. Cette trace va nous permettre d'observer ou non que l'agent se comporte comme souhaité.
+*  L'evolution de la récompense totale sur un episode. Cette visualisation va nous permettre d'avoir une vue d'ensemble sur l'experience ( contrairement aux traces ), et de constater de la convergence des ces récompenses.
+* L'évolution des q-valeur, pour constater leur convergence (ou pas).
+
+##### Résultats obtenus #####
+Bon bah comme l'état de l'art le laissait à penser, ça ne marche pas. Les q-valeurs convergent vers le minimum possible ( -1 ), et l'agent alterne entre A et B sans jamais faire deux actions de suite. On notera un moins mauvais comportement avec l'exploration, grâce à l'aléatoire qui va faire que deux même action vont se suivre.
+
+##### Conclusion #####
+Le q-learning ne suffit pas à résoudre le problème AABB. Par intuition, on pourrait penser qu'il faut doter l'agent d'un historique des ses actions passées.
+
+#### Appliquer des TOAs ####
+
+##### Objectif 
+Appliquer une technique d'augmentation du q-learning au problème AABB pour le résoudre.
+L'idée est aussi de confirmer, ou infirmer, l'hyopothèse que tout probleme pt etre résolu par du renforcement pour peu que l'on ai les bons états. On pourrait par exemple résoudre AABB en creant des état |S|x|A|. 
+
+##### Etat de l'art #####
+On s'inspire des TOAs de Dutech, qui consiste à créer de nouvelles observations pour doter l'agent de suffisament de connaissance sur son environnement.
+
+##### Implem #####
+Les observations / actions /récompenses restent les même. On va ajouter de nouvelle observations de type O(AO)* . Par exemple, on pourra ajouter l'observation O1-A-O1. Lorsque l'agent aura dans sont historique d'observation-action la situation O1-A-O1, il pourra choisir un action en fonction de cette observation, et non en fonction de l'observation simple O1. 
+La mise a jour ne concerne que la TOA utilisée , et nous pas les sous-observations qui composent cette TOA.
+
+##### Evaluation des résultats #####
+Tout pareil...
+
+##### Resultats obtenus #####
+Avec une TOA d'ordre 3, on obtient le comportement souhaité (comme la "théorie" le prédisait).
+
+##### Conclusion #####
+Les extensions d'états permettent de résoudre le problème AABB. Néanmoins cette technique est assez gourmande (exponentielle ?) , et encore faudrait-il que l'agent __apprenne__ ces TOAs. 
+
+#### Apprendre des TOAs version Dutech ####
+
+##### Objectif #####
+On va essayer d'apprendre les TOA nécessaires à la résolution du probleme AABB. On va les apprendre à la manière de Dutech (ou presque, un petit peu ..)
+
+##### Etat de l'art #####
+ça n'a pas changé
+
+##### Implem #####
+La même implem qu'au dessus, sauf qu'au départ on n'a que les observations primitives. 
+Pour apprendre des nouvelles TOA, on va utiliser chercher à augmenter les TOA qui ne convergeraient pas.
+
+##### Resultats obtenus #####
+Le difficulté vient du fait que les valeurs convergent, mais vers la pire des valeurs. Il faut donc aussi voir si on ne converge pas vers la pire valeur. Il faudrait aussi utiliser els deux autres critères de Dutech.
+
+##### Conclusion #####
+Piste assez peu exploitée, à voir...
+
+#### Apprendre des TOAs avec motivation intrinsèque ####
+
+##### Objectif #####
+On va faire en sorte que l'agent apprenne les TOAs nécessaire à la résolution du problème AABB.
+
+##### Etat de l'art #####
+On va s'inspirer de la motivation intrisèque  (Singh, et autres )
+
+##### Implem #####
+L'idée c'est d'associer une TOA à un récompense intrinsèque qui traduit l'interet porté sur cette TOA. Cette interet va etre fonction de la nouveaué d'un évènement. 
+La récompense totale perçue par l'agent sera la somme de la récompense intreinsèque et de la récompense extrinsèque.
+
+##### Resultats obtenus ##### 
+L'agent à bien appris les bonnes toas.
+
+##### Conclusion ##### 
+ça fonctionne, mais c'est taillé pour ce problème. Donc pas très interessant.
+
+## Projet OPTION_AND_TOA ##
+
+### Experience AABB ###
+
+La même chose qu'avant, mais en plus propre. Sans la motiv intrinsèque.
+
+### Experience Small Loop ###
+
+
+
+
+
+
+
+
+
+
+
+

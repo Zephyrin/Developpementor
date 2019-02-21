@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="model.ttl">model.ttl</file>
+        <file alias="loop.loop">loop.loop</file>
+        <file alias="interactions.show">interactions.show</file>
+    </qresource>
+</RCC>

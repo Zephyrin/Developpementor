@@ -1,0 +1,56 @@
+
+@prefix : <http://liris.cnrs.fr/silex/2009/ktbs#> .
+@prefix m: <http://localhost:8001/embodied_paradigm/model#> .
+@prefix s: <http://localhost:8001/embodied_paradigm/model#Step/> .
+@prefix i: <http://localhost:8001/embodied_paradigm/model#Interaction/> .
+@prefix a: <http://localhost:8001/embodied_paradigm/model#Anticipation/> .
+
+<@obsels> a :StoredTraceObsels .
+<.> :hasObselCollection <@obsels> .
+
+    <e1> a m:Experience;
+:hasTrace <.> .
+
+    <e2> a m:Experience;
+:hasTrace <.> .
+
+    <r1> a m:Result;
+:hasTrace <.> .
+
+    <r2> a m:Result;
+:hasTrace <.> .
+
+    <1> a m:Step;
+:hasTrace <.> ;
+s:mood "Satisfied" .
+
+    <e1r2> a m:Interaction;
+i:valence: 2;
+i:weight: 0 ;
+m:withResult: <r2> ;
+m:withExperience: <e1> ;
+m:onStep: <1> ;
+:hasTrace <.> .
+	   
+    <e1r1> a m:Interaction;
+i:valence: -1;
+i:weight: 0;
+m:withResult: <r1>;
+m:withExperience: <e1>;
+m:onStep <1> ;
+:hasTrace <.> .
+	  
+	   "@id": "e1",
+	   "@type": "m:Anticipation",
+	   "a:proclivity": 0,
+	   "m:onStep":  {"hasTrace": "./", "@id": "1"}
+	   },
+	   {
+	   "@id": "e2",
+	   "@type": "m:Anticipation",
+	   "a:proclivity": 0,
+	   "m:onStep":  {"hasTrace": "./", "@id": "1"}
+	   }
+	
+	   ]
+}

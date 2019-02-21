@@ -1,0 +1,21 @@
+{
+    "@context": [
+	"http://liris.cnrs.fr/silex/2011/ktbs-jsonld-context",
+	{ "m": "http://localhost:8001/embodied_paradigm/model#" },
+	{ "s": "http://localhost:8001/embodied_paradigm/model#Step/" },
+	{ "i": "http://localhost:8001/embodied_paradigm/model#Interaction/" },
+	{ "a": "http://localhost:8001/embodied_paradigm/model#Anticipation/" }
+    ],
+    "@id": "./",
+    "hasObselList": {"@id": "", "@type": "m:Result"},
+    "obsels": [
+	{
+	    "@id": "r1",
+	    "@type": "m:Result"
+	},
+	{
+	    "@id": "r2",
+	    "@type": "m:Result"
+	}
+    ]
+}

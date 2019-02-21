@@ -1,0 +1,114 @@
+@prefix : <http://liris.cnrs.fr/silex/2009/ktbs#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<.> :contains <model> .
+<model> a :TraceModel .
+
+    <model#Step> a :ObselType .
+
+    <model#Result> a :ObselType .
+
+    <model#Experience> a :ObselType .
+
+    <model#Interaction> a :ObselType .
+
+    <model#Mecanism> a :ObselType .
+
+    <model#Proposed> a :ObselType ;
+:hasSuperObselType <model#Mecanism> .
+
+    <model#Interactions> a :ObselType ;
+:hasSuperObselType <model#Mecanism> .
+
+    <model#Activated> a :ObselType ;
+:hasSuperObselType <model#Interactions> .
+
+    <model#Intended> a :ObselType ;
+:hasSuperObselType <model#Interactions> .
+
+    <model#Enacted> a :ObselType ;
+:hasSuperObselType <model#Interactions> .
+
+    <model#Learned> a :ObselType ;
+:hasSuperObselType <model#Interactions> .
+
+
+    <model#Step/label> a :AttributeType;
+skos:prefLabel "label" ;
+:hasAttributeDomain <model#Step> ;
+:hasAttributeRange xsd:string .
+
+    <model#Step/mood> a :AttributeType;
+skos:prefLabel "mood" ;
+:hasAttributeDomain <model#Step> ;
+:hasAttributeRange xsd:string .
+
+    <model#Experience/label> a :AttributeType;
+skos:prefLabed "label" ;
+:hasAttributeDomain <model#Experience> ;
+:hasAttributeRange xsd:string .
+
+    <model#Result/label> a :AttributeType;
+skos:prefLabed "label" ;
+:hasAttributeDomain <model#Result> ;
+:hasAttributeRange xsd:string .
+
+    <model#Interaction/label> a :AttributeType;
+skos:prefLabed "label" ;
+:hasAttributeDomain <model#Interaction> ;
+:hasAttributeRange xsd:string .
+
+    <model#Mecanism/label> a :AttributeType;
+skos:prefLabel "label" ;
+:hasAttributeDomain <model#Mecanism> ;
+:hasAttributeRange xsd:string .
+
+    <model#Proposed/proclivity> a :AttributeType ;
+skos:prefLabel "proclivity" ;
+:hasAttributeDomain <model#Proposed> ;
+:hasAttributeRange xsd:integer .
+
+    <model#Interactions/valence> a :AttributeType ;
+skos:prefLabel "valence" ;
+:hasAttributeDomain <model#Interaction> ;
+:hasAttributeRange xsd:integer .
+
+    <model#Interactions/weight> a :AttributeType ;
+skos:prefLabel "weight" ;
+:hasAttributeDomain <model#Interactions> ;
+:hasAttributeRange xsd:integer .
+
+
+
+ <model#withResult> a :RelationType ;
+:hasRelationDomain <model#Interaction> ;
+:hasRelationRange <model#Result> .
+
+ <model#withExperience> a :RelationType ;
+:hasRelationDomain <model#Interaction> ;
+:hasRelationRange <model#Experience> .
+
+ <model#withPreInteraction> a :RelationType ;
+:hasRelationDomain <model#Interaction> ;
+:hasRelationRange <model#Interaction> .
+
+ <model#withPostInteraction> a :RelationType ;
+:hasRelationDomain <model#Interaction> ;
+:hasRelationRange <model#Interaction> .
+
+    <model#withExperience> a :RelationType ;
+:hasRelationDomain <model#Proposed> ;
+:hasRelationRange <model#Experience> .
+
+    <model#onStep> a :RelationType ;
+:hasRelationDomain <model#Mecanism> ;
+:hasRelationRange <model#Step> .
+
+    <model#learnedOnStep> a :RelationType ;
+:hasRelationDomain <model#Interaction> ;
+:hasRelationRange <model#Step> .
+
+    <model#withInteraction> a :RelationType ;
+:hasRelationDomain <model#Interactions> ;
+:hasRelationRange <model#Interaction> .

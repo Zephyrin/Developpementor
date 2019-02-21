@@ -1,0 +1,68 @@
+@prefix : <http://liris.cnrs.fr/silex/2009/ktbs#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<.> :contains <model> .
+<model> a :TraceModel .
+
+    <model#Step> a :ObselType .
+    
+    <model#Interaction> a :ObselType .
+    
+    <model#Activated> a :ObselType ;
+:hasSuperObselType <model#Interaction> .
+
+    <model#Proposed> a :ObselType ;
+:hasSuperObselType <model#Interaction> .
+
+    <model#Intended> a :ObselType ;
+:hasSuperObselType <model#Interaction> .
+
+    <model#Enacted> a :ObselType ;
+:hasSuperObselType <model#Interaction> .
+    
+    <model#Learned> a :ObselType ;
+:hasSuperObselType <model#Interaction> .
+
+    <model#Result> a :ObselType .
+
+    <model#Experience> a :ObselType .
+    
+    <model#Interaction/valence> a :AttributeType ;
+skos:prefLabel "valence" ;
+:hasAttributeDomain <model#Interaction> ;
+:hasAttributeRange xsd:integer .
+
+    <model#Interaction/weight> a :AttributeType ;
+skos:prefLabel "weight" ;
+:hasAttributeDomain <model#Interaction> ;
+:hasAttributeRange xsd:integer .
+
+    <model#Interaction/result> a :AttributeType ;
+skos:prefLabel "result" ;
+:hasAttributeDomain <model#Interaction> ;
+:hasAttributeRange <model#Result> .
+
+    <model#Interaction/experience> a :AttributeType ;
+skos:prefLabel "experience" ;
+:hasAttributeDomain <model#Interaction> ;
+:hasAttributeRange <model#Experience> .
+
+    <model#Interaction/preInteraction> a :AttributeType ;
+skos:prefLabel "preInteraction" ;
+:hasAttributeDomain <model#Interaction> ;
+:hasAttributeRange <model#Interaction> .
+
+    <model#Interaction/postInteraction> a :AttributeType ;
+skos:prefLabel "postInteraction" ;
+:hasAttributeDomain <model#Interaction> ;
+:hasAttributeRange <model#Interaction> .
+
+    <model#Proposed/proclivity> a :AttributeType ;
+skos:prefLabel "proclivity" ;
+:hasAttributeDomain <model#Proposed> ;
+:hasAttributeRange <model#Proposed> .
+    
+    <model#onStep> a :RelationType ;
+:hasRelationDomain <model#Interaction> ;
+:hasRelationRange <model#Step> .

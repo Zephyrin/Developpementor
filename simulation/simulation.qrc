@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>config/simpleString.env</file>
+        <file>config/smallLoop.env</file>
+        <file>config/string_inv.env</file>
+        <file>config/string.env</file>
+        <file>config/stringMotivationWithout0.env</file>
+    </qresource>
+</RCC>
