@@ -73,15 +73,27 @@ void EnvironmentSmallLoop::init()
             {
               std::size_t x = b.size();
               if(X == 0)
-                X = x - 1;
-              else if(X != x - 1)
+              {
+                  if(b.endsWith("\r\n"))
+                    X = x - 2;
+                  else
+                    X = x - 1;
+              }
+              else if(!(b.endsWith("\r\n") && X == x - 2))
                 {
                   wellForm = false;
                   return;
                 }
+              else if((!b.endsWith("\r\n") && X == x - 1))
+              {
+                  wellForm = false;
+                  return;
+              }
               x = 0;
               for(char a : b)
                 {
+                  if(a == '\r')
+                    continue;
                   if(a == '\n')
                     continue;
                   if(a == '*')
@@ -122,7 +134,7 @@ void EnvironmentSmallLoop::init()
 
 const Interaction *EnvironmentSmallLoop::getResult(const Interaction *intended)
 {
-  const Interaction *enacted = NULL;
+  const Interaction *enacted = nullptr;
 
   if(intended == *feelBehindWall || intended == *feelBehindEmpty )
     {

@@ -1,5 +1,6 @@
 #include "texteditsearch.h"
 #include "ui_texteditsearch.h"
+#include <QStyle>
 
 TextEditSearch::TextEditSearch(QWidget *parent) :
   QWidget(parent),

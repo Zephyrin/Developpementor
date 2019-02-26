@@ -18,7 +18,7 @@ CreateEnvironment::CreateEnvironment(BuildGraphics &build, QStyle *style)
     env(NULL),
     widget(NULL),
     fileNameSmallLoop(":/config/smallLoop.env"),
-    fileNameString(":/config/string.env")
+    fileNameString(":/config/stringMotivationWithout0.env")
   , build(build)
 {
   combo = new QComboBox();

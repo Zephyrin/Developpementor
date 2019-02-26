@@ -45,6 +45,7 @@ public slots:
 
 protected slots:
   void moveScrollBarToRight();
+  void simulationStop();
 protected:
   QGraphicsLineItem *timeLine;
   std::size_t excitement;

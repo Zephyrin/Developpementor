@@ -5,6 +5,8 @@
 #include <QSettings>
 #include <QtSvg/QSvgGenerator>
 #include <QDebug>
+#include <QAction>
+
 DockWidgetGraphicsView::DockWidgetGraphicsView(const BuildGraphics &build
                                                , const QString &title
                                                , const QString configName

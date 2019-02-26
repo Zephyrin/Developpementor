@@ -46,6 +46,8 @@ void BuildGraphics::readSettings(const QString &filename)
               QString sColor(b.right(b.size() - (b.indexOf('=') + 1)));
               if(sColor.endsWith('\n'))
                   sColor.remove(sColor.size() - 1, 1);
+              if(sColor.endsWith('\r'))
+                  sColor.remove(sColor.size() - 1, 1);
               colors_[str] = sColor;
             }
           else
@@ -53,6 +55,8 @@ void BuildGraphics::readSettings(const QString &filename)
               std::string str(b.left(b.indexOf('=')).constData());
               QString fig(b.right(b.size() - (b.indexOf('=') + 1)));
               if(fig.endsWith('\n'))
+                fig.remove(fig.size() - 1, 1);
+              if(fig.endsWith('\r'))
                 fig.remove(fig.size() - 1, 1);
               if(fig == "triangle")
                 figures_[str] = BuildGraphics::TRIANGLE;

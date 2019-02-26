@@ -187,8 +187,13 @@ void InteractionFluxGraphics::addValence(const int valence, const qreal posX)
     item->setPos(posX - 145, numberLineList.at(0)->pos().y());
   else
     item->setPos(posX - 145, numberLineList.at(0)->pos().y() + 50);
+  item->setToolTip(tr("Valence : %1").arg(valence));
 }
 
+void InteractionFluxGraphics::simulationStop()
+{
+    userClear();
+}
 void InteractionFluxGraphics::userClear()
 {
   view->scene()->clear();
