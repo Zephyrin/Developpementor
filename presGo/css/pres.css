@@ -1,0 +1,51 @@
+.left { left: 0%; }
+
+.right { right: 0%; }
+
+.middle { vertical-align:middle !important; } 
+
+.top { 
+	position: fixed;
+
+	left:0%;
+	right:0%;
+	top: 10% !important; 
+}
+
+.bottom { 
+	position: fixed;
+	bottom: 10%;
+	left:0%;
+	right: 0%;
+    text-align: left !important;
+ }
+
+ .bottom-limit { 
+	position: fixed;
+	bottom: 5%;
+ }
+ 
+.draggable {
+  cursor: pointer;
+  position: fixed;
+  top: 25%;
+  left: 0%;
+  display: inline-block;
+
+}
+
+.stick {
+	width: 100%;
+	max-width: 95% !important;
+}
+.arrow {
+	width: 5%;
+	max-width: 5% !important;
+}
+img.border-none {
+	border: 0 !important;
+	background: none !important;
+	margin: 0 0 0 0 !important;
+	box-shadow: none !important;
+	
+}

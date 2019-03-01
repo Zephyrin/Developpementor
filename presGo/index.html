@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+		<link rel="stylesheet" href="css/pres.css">
+
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				
+				<section>
+					<h1>Intelligence Artificielle​</h1>
+					<h3>Ce que l'avenir nous réserve</h3>
+				</section>
+				<section>
+					<h2>Sommaire</h2>
+					<p class="fragment fade-down">Histoire</p>
+					<p class="fragment fade-down">Intelligence artificielle</p>
+					<p class="fragment fade-down">Bio-Inspirée</p>
+					<p class="fragment fade-down">Du point de vue de l'agent</p>
+					<p class="fragment fade-down">De votre point de vue</p>
+					<p class="fragment fade-down">Réseau de neurone</p>
+					<p class="fragment fade-down">Et maintenant ?</p>
+					<p class="fragment fade-down">Conclusion</p>
+				</section>
+				<section>
+					<h2>Histoire</h2>
+						<img class="fragment fade-left left middle" width="289" height="206" src="img/robot-mecanique.png" />
+						<img class="fragment fade-center center middle" width="289" height="206" src="img/flotide.png"  />
+						<img class="fragment fade-right right middle" width="150" height="206" src="img/robot-trompette.png" />
+				</section>
+				<section>
+					<div class="top">Sur cette liste de mot, qu'elle est le niveau d'intelligence artificielle ?​</div>
+					<div class="fragment fade-center draggable">Jeux de Go ou d'Échec</div>
+					<div class="fragment fade-center draggable">Avion</div>
+					<div class="fragment fade-center draggable">Voiture</div>
+					
+					<div class="fragment fade-center draggable">Aide à la décision</div>
+					<div class="fragment fade-center draggable">Optimisation</div>
+					<div class="fragment fade-center draggable">Catégorisation de données</div>
+					<div class="fragment fade-center draggable">Voix (synthèse et décodage)</div>
+					<div class="fragment fade-center draggable">Presse écrite</div>
+					<div class="fragment fade-center draggable">Robot</div>
+					<div class="bottom limit">
+						<img src="img/stick.png" class="stick middle border-none left" /><img src="img/right-arrow.png" class="arrow right middle border-none" width="50" height="50" />
+					</div>
+					<div class="bottom-limit left">Peu ou pas intelligent</div>
+					<div class="bottom-limit right">Intelligent</div>
+				</section>
+				<section>
+					<h1>Qui est A. Turing ?</h1>
+					<img class="fragment fade-right right" src="img/a-turing.png" />
+					<p class="fragment fade-center">23 juin 1912 à Londres et mort le 7 juin 1954​</p>
+					<img class="fragment fade-left left" src="img/turing-test.png"/>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+		<script src="js/moveText.js" ></script>
+
+	</body>
+</html>
